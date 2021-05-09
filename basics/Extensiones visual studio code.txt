@@ -1,0 +1,5 @@
+Live Server
+Bracket pair colorizer
+generate-react-component
+Prettier
+Reactjs code snippets
